@@ -58,8 +58,10 @@ Social Media Detail
 Customer Review Detail
 <img width="1144" height="644" alt="image" src="https://github.com/user-attachments/assets/4b74d212-6ce8-4b17-99bd-e265d91bc7e1" />
 
-## Goals & Actions
-<img width="1351" height="759" alt="image" src="https://github.com/user-attachments/assets/eb720a72-69c8-4ac5-be77-9544b7c455df" />
+## Action
+<img width="1338" height="511" alt="Screenshot 2025-12-31 151339" src="https://github.com/user-attachments/assets/1e8fdfd5-75f2-411c-86e2-d651aa4cab0e" />
+
+
 
 
 
