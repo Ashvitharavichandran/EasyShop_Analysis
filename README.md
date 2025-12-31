@@ -1,7 +1,7 @@
 ---
 
 
-##EasyShop_Analysis Project
+## EasyShop_Analysis Project
 
 Analyzed e-commerce sales and customer data to identify trends in conversion rates, engagement, and feedback. Utilized SQL for data preparation and Power BI to build
 interactive dashboards, providing actionable insights to enhance customer engagement, optimize content  strategy, and improve overall satisfaction.
@@ -24,19 +24,19 @@ interactive dashboards, providing actionable insights to enhance customer engage
 ### Customer_Review_Table
 
 - Query to clean whitespace issues in the ReviewText column
-  <img width="1122" height="506" alt="image" src="https://github.com/user-attachments/assets/ab81b260-73db-46fe-8adc-0015071690d4" />
+<img width="1122" height="506" alt="image" src="https://github.com/user-attachments/assets/ab81b260-73db-46fe-8adc-0015071690d4" />
 
 - ### Engagement_Table
 
 - Query to clean and normalize the engagement_data table
-  <img width="1058" height="518" alt="image" src="https://github.com/user-attachments/assets/6055e6a7-db09-48c4-92ba-bf82749cc1cf" />
+<img width="1058" height="518" alt="image" src="https://github.com/user-attachments/assets/6055e6a7-db09-48c4-92ba-bf82749cc1cf" />
 
   ### Customer_Journey_Table
 
 - Common Table Expression (CTE) to identify and tag duplicate records
 - <img width="1111" height="697" alt="image" src="https://github.com/user-attachments/assets/eed9b4ea-c2ec-44b5-9f1f-891fc72c5009" />
  Outer query selects the final cleaned and standardized data
-<img width="1271" height="729" alt="image" src="https://github.com/user-attachments/assets/0ec126ec-8fc2-4bb6-936c-6a4e24a3127b" />
+  <img width="1271" height="729" alt="image" src="https://github.com/user-attachments/assets/0ec126ec-8fc2-4bb6-936c-6a4e24a3127b" />
 
 ## **Customer Reviews** Sentiment Analysis Using Python
 
@@ -44,7 +44,7 @@ Developed a comprehensive workflow to extract insights from customer reviews. Re
 
 Calculated **sentiment scores** for each review, categorized them into **sentiment categories**, and created **sentiment buckets** for easier analysis. Applied this process across relevant columns and **generated an Excel sheet** with separate columns for **Sentiment Score, Sentiment Category, and Sentiment Bucket**, providing a clear and structured view of customer feedback. This workflow delivered actionable insights, enabling **data-driven decisions** to improve engagement and satisfaction.
 
-Dashboard(Power BI)
+## Dashboard(Power BI)
 
 Overview
 <img width="1144" height="641" alt="image" src="https://github.com/user-attachments/assets/5f84dd0f-ef6e-425e-b842-666fe52dcacf" />
@@ -58,7 +58,7 @@ Social Media Detail
 Customer Review Detail
 <img width="1144" height="644" alt="image" src="https://github.com/user-attachments/assets/4b74d212-6ce8-4b17-99bd-e265d91bc7e1" />
 
-Goals & Actions
+## Goals & Actions
 <img width="1351" height="759" alt="image" src="https://github.com/user-attachments/assets/eb720a72-69c8-4ac5-be77-9544b7c455df" />
 
 
