@@ -34,9 +34,9 @@ interactive dashboards, providing actionable insights to enhance customer engage
   ### Customer_Journey_Table
 
 - Common Table Expression (CTE) to identify and tag duplicate records
-- <img width="1111" height="697" alt="image" src="https://github.com/user-attachments/assets/eed9b4ea-c2ec-44b5-9f1f-891fc72c5009" />
- Outer query selects the final cleaned and standardized data
-  <img width="1271" height="729" alt="image" src="https://github.com/user-attachments/assets/0ec126ec-8fc2-4bb6-936c-6a4e24a3127b" />
+<img width="1111" height="697" alt="image" src="https://github.com/user-attachments/assets/eed9b4ea-c2ec-44b5-9f1f-891fc72c5009" />
+-Outer query selects the final cleaned and standardized data
+<img width="1271" height="729" alt="image" src="https://github.com/user-attachments/assets/0ec126ec-8fc2-4bb6-936c-6a4e24a3127b" />
 
 ## **Customer Reviews** Sentiment Analysis Using Python
 
